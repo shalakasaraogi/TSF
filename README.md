@@ -1,4 +1,4 @@
-# **TSF-Internship Tasks**       
+# **TSF- Tasks**       
 
 ## [1] Simple Linear Regression    
 
